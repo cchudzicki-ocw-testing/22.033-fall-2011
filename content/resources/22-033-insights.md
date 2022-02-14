@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: CourseSection
 resourcetype: Image
 title: 22-033-insights.png
+type: OCWImage
 uid: c92e620d-3480-6f66-04c9-c320e0bbfccd
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: syllabus_fig1.gif
+type: OCWImage
 uid: 1ca120b6-ce97-b3ff-a71a-34287a4a3ff3
 ---

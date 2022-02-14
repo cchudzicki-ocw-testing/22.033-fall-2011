@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Making Content Tangible
+parent_type: CourseSection
 resourcetype: Image
 title: reactorpiece.jpg
+type: OCWImage
 uid: e2580c7c-4020-54f9-9c38-499ba7cc4b70
 ---

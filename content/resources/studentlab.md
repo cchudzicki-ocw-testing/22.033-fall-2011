@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Teaching Students to Be Engineers
+parent_type: CourseSection
 resourcetype: Image
 title: engineer
+type: OCWImage
 uid: 92f3adfe-9ea2-26b9-b210-8c847eb215d1
 ---

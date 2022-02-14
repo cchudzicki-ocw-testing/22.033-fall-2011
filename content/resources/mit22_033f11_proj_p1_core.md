@@ -4,7 +4,12 @@ description: "This resource contains information regarding 22.033 core group\u20
   reactor concept and decision making process."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-033-nuclear-systems-design-project-fall-2011/a136eeac004bc74a21848a5c51ea9705_MIT22_033F11_proj_p1_core.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: MIT22_033F11_proj_p1_core.pdf
+type: OCWFile
 uid: a136eeac-004b-c74a-2184-8a5c51ea9705
 ---

@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Announcements
+parent_type: CourseSection
 resourcetype: Image
 title: lec07_blockdiagram.png
+type: OCWImage
 uid: 6ae78b32-a410-96de-4a56-2b34ab6efe8c
 ---

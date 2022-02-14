@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Tailoring the Course to Students' Needs
+parent_type: CourseSection
 resourcetype: Image
 title: couch-plus-computer.jpg
+type: OCWImage
 uid: 589b003c-34cc-cac5-1a05-e7a5a8f7243a
 ---
