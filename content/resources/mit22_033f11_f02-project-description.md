@@ -9,6 +9,5 @@ parent_title: Developing the Project Assignment
 parent_type: CourseSection
 resourcetype: Document
 title: Nuclear Systems Design Project (22.033/22.33) Project Description, Fall 2002
-type: OCWFile
 uid: 7a3131ea-5cb7-0d9f-109b-ee0d075525b2
 ---

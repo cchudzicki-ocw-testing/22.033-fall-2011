@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: CourseSection
 parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Tailoring the Course to Students' Needs
-type: CourseSection
 uid: cec37c2f-0ed4-584e-28d6-1c6630ff78e9
 ---
 

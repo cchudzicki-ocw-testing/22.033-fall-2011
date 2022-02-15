@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: MIT22_033F11_projp1biofuel.pdf
-type: OCWFile
 uid: 9488c675-0fab-03c4-492f-c732f2d5b953
 ---

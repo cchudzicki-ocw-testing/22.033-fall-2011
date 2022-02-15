@@ -9,6 +9,5 @@ parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT22_033F11_lec07_note.pdf
-type: OCWFile
 uid: 4a2d1059-fade-1cce-993a-fc566d35e42d
 ---

@@ -4,7 +4,6 @@ is_media_gallery: true
 learning_resource_types:
 - Projects
 title: Projects
-type: CourseSection
 uid: 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925
 videos:
   content:

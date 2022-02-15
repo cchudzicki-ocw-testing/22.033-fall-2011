@@ -8,6 +8,5 @@ parent_title: Announcements
 parent_type: CourseSection
 resourcetype: Document
 title: MIT22_033F11_mt_survey.pdf
-type: OCWFile
 uid: 5534d773-22e9-9a7b-4d67-5eb109a01e75
 ---

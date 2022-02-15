@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: CourseSection
 parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Developing the Project Assignment
-type: CourseSection
 uid: 6000b1af-cb5b-372c-3189-1bdbcc47a489
 ---
 

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT22_033F11_asn_journal2c.pdf
-type: OCWFile
 uid: 6af8f3bd-38fd-b015-59b5-a5e8d95ba3df
 ---

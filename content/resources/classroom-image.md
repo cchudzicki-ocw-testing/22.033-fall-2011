@@ -12,6 +12,5 @@ parent_title: Guiding Students Through Each Phase of the Course
 parent_type: CourseSection
 resourcetype: Image
 title: classroom-image.JPG
-type: OCWImage
 uid: 48ee06c9-e34d-e3f4-34e9-7c7b1219f82c
 ---

@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: CourseSection
 parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Making Content Tangible
-type: CourseSection
 uid: 9e145b33-d473-f70e-ec45-5c73fc291a97
 ---
 

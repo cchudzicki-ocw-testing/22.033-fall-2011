@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: MIT22_033F11_proj_p2_h2.pdf
-type: OCWFile
 uid: 76374a24-8b20-cb49-ad4d-fc739f235e3f
 ---

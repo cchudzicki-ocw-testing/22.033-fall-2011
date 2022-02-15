@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: MIT22_033F11_proj_p1_heat.pdf
-type: OCWFile
 uid: e4b78b87-ef55-ce37-9d5b-2760ace09b5c
 ---

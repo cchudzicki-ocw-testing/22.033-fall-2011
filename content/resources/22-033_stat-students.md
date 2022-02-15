@@ -12,6 +12,5 @@ parent_title: Instructor Insights
 parent_type: CourseSection
 resourcetype: Image
 title: 22-033_stat-students.png
-type: OCWImage
 uid: 7da1444e-e82c-120d-9977-74e7b8730b95
 ---

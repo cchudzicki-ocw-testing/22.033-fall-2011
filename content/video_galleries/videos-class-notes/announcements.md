@@ -6,7 +6,6 @@ parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection
 parent_uid: 9117e4ec-27cd-11cf-dead-0199547b42a6
 title: Announcements
-type: CourseSection
 uid: 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886
 ---
 
