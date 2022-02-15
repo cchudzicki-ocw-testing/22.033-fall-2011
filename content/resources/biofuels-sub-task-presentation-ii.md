@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: Slides
 optional_text: Slides ([PDF - 1.8MB](resources/mit22_033f11_projp2biofuel))
 parent_title: Projects

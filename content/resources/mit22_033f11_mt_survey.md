@@ -4,6 +4,7 @@ description: This file contains questions for the midterm student survey.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-033-nuclear-systems-design-project-fall-2011/5534d77322e99a7b4d675eb109a01e75_MIT22_033F11_mt_survey.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Announcements
 parent_type: CourseSection
 resourcetype: Document

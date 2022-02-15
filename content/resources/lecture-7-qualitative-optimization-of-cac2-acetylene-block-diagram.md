@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: Notes ([PDF](resources/mit22_033f11_lec07_note))
 parent_title: Lecture Videos and Class Notes

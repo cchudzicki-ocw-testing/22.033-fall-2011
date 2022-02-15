@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/22-033-nucle
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+ocw_type: OCWFile
 parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection
 resourcetype: Document

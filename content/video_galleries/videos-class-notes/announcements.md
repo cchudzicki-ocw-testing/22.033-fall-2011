@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Lecture Videos
+ocw_type: CourseSection
 parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection
 parent_uid: 9117e4ec-27cd-11cf-dead-0199547b42a6

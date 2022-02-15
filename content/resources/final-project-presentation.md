@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: Slides
 optional_text: Slides ([PDF - 5.0MB](resources/mit22_033f11_final_slides))
 parent_title: Projects
