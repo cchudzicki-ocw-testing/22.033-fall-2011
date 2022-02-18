@@ -18,28 +18,28 @@ Nuclear Systems Design Project is an intense capstone project course designed pr
 
 ### Course Goals for Students
 
-To learn to work on an open-ended, “no right answer” problem that requires choosing design parameters, optimizing them, and defending a proposed design. \[Learn more\]({{\< baseurl >}}/pages/Syllabus#goals).
+To learn to work on an open-ended, “no right answer” problem that requires choosing design parameters, optimizing them, and defending a proposed design. [Learn more]({{< baseurl >}}/pages/Syllabus#goals).
 
 ### Possibilities for Further Study/Careers
 
 - Graduate study in nuclear engineering
 - Careers in nuclear engineering
 
-{{\< anchor "insights" >}}{{\< /anchor >}}
+{{< anchor "insights" >}}{{< /anchor >}}
 
 ## Instructor Insights
 
-!\[Professor standing before class\]({{\< resource\_file c92e620d-3480-6f66-04c9-c320e0bbfccd >}})   
+{{< resource c92e620d-3480-6f66-04c9-c320e0bbfccd >}}   
 Dr. Short addresses 22.033 students during class.
 
 In the following pages, Dr. Short discusses specific aspects of his experience as the course instructor.
 
-- \[Developing the project assignment\]({{\< baseurl >}}/pages/instructor-insights/developing-the-project-assignment)
-- \[Guiding students through each phase of the course\]({{\< baseurl >}}/pages/instructor-insights/guiding-students-through-each-phase-of-the-course)
-- \[Tailoring the course to students' needs\]({{\< baseurl >}}/pages/instructor-insights/tailoring-the-course-to-students-needs)
-- \[Teaching students to be engineers\]({{\< baseurl >}}/pages/instructor-insights/teaching-students-to-be-engineers)
-- \[Teaching communication\]({{\< baseurl >}}/pages/instructor-insights/teaching-communication)
-- \[Making content tangible\]({{\< baseurl >}}/pages/instructor-insights/making-content-tangible)
+- [Developing the project assignment]({{< baseurl >}}/pages/instructor-insights/developing-the-project-assignment)
+- [Guiding students through each phase of the course]({{< baseurl >}}/pages/instructor-insights/guiding-students-through-each-phase-of-the-course)
+- [Tailoring the course to students' needs]({{< baseurl >}}/pages/instructor-insights/tailoring-the-course-to-students-needs)
+- [Teaching students to be engineers]({{< baseurl >}}/pages/instructor-insights/teaching-students-to-be-engineers)
+- [Teaching communication]({{< baseurl >}}/pages/instructor-insights/teaching-communication)
+- [Making content tangible]({{< baseurl >}}/pages/instructor-insights/making-content-tangible)
 
 ## Curriculum Information
 
@@ -56,11 +56,11 @@ In the following pages, Dr. Short discusses specific aspects of his experience a
 
 - Every fall
 
-{{\< anchor "studentinfo" >}}{{\< /anchor >}}
+{{< anchor "studentinfo" >}}{{< /anchor >}}
 
 ## Student Information
 
-!\[On average, about 17 students take this course each year.\]({{\< resource\_file 7da1444e-e82c-120d-9977-74e7b8730b95 >}})
+{{< resource 7da1444e-e82c-120d-9977-74e7b8730b95 >}}
 
 ### Breakdown by Year
 
@@ -78,7 +78,7 @@ Substantial coursework in Nuclear Science and Engineering.
 
 The ideal class size is between 5 and 20. There is no enrollment cap. As the required capstone class for undergraduate NSE majors, the class size is closely tied to the number of juniors and seniors majoring in NSE in any given year. If enrollment were unusually high in a year, the class would be split into two groups that would simultaneously engage in completely independent design projects. With too many students, communication and collaboration become unwieldy.
 
-{{\< anchor "studenttime" >}}{{\< /anchor >}}
+{{< anchor "studenttime" >}}{{< /anchor >}}
 
 ## How Student Time Was Spent
 
@@ -100,13 +100,13 @@ Activities such as
 - Individual meetings with the instructor
 - Preparation for presentations
 
-{{\< anchor "roles" >}}{{\< /anchor >}}
+{{< anchor "roles" >}}{{< /anchor >}}
 
 ## Course Team Roles
 
 ### Lead Instructor (Dr. Michael Short)
 
-To design the course project, structure and run the course, work with students, and provide feedback. Read more about Dr. Short’s role in \[guiding students through each phase of the course\]({{\< baseurl >}}/pages/instructor-insights/guiding-students-through-each-phase-of-the-course).
+To design the course project, structure and run the course, work with students, and provide feedback. Read more about Dr. Short’s role in [guiding students through each phase of the course]({{< baseurl >}}/pages/instructor-insights/guiding-students-through-each-phase-of-the-course).
 
 ### Teaching Assistant
 
