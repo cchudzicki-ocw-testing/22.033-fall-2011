@@ -24,7 +24,7 @@ Lectures: 2 sessions / week, 1 hour / session
 
 Recitations: 1 session / week, 1 hour / session
 
-For more details, see the [calendar]({{< baseurl >}}/pages/calendar) page.
+For more details, see the {{< resource_link b2b5d32e-3add-2c5a-a0ac-8e02d4bd077c "calendar" >}} page.
 
 Course Level and Prerequisites
 ------------------------------
@@ -54,7 +54,7 @@ Rather than asking you to answer questions, this course will teach you how to fi
 
 This problem is far too big for one person to complete on his/her own in the time given. This is why you are working as a team. As such, you will often have to discuss design strategies and parameters with each other, to ensure that your ideas and changes bring the maximum amount of benefit to the project as a whole.
 
-![Block diagram of team organization, with four groups, four focus area leads and an integrator role.]({{< resource_file 1ca120b6-ce97-b3ff-a71a-34287a4a3ff3 >}})
+{{< resource 1ca120b6-ce97-b3ff-a71a-34287a4a3ff3 >}}
 
 Figure 1. Project Team Organization.
 
@@ -142,7 +142,7 @@ The biofuel group is responsible for choosing and optimizing a technology to gen
 {{< anchor "course-structure" >}}{{< /anchor >}}Course Structure
 ----------------------------------------------------------------
 
-Class meetings will mainly be dedicated to two tasks: 1) lectures and informational sessions relating to design specifics that the team chooses, and 2) presenting team progress, for the purpose of keeping everyone informed about the current state of the project. A general outline of how the course will proceed is below, though it will be subject to minor revisions during the term. See the [calendar]({{< baseurl >}}/pages/calendar) page for more details.
+Class meetings will mainly be dedicated to two tasks: 1) lectures and informational sessions relating to design specifics that the team chooses, and 2) presenting team progress, for the purpose of keeping everyone informed about the current state of the project. A general outline of how the course will proceed is below, though it will be subject to minor revisions during the term. See the {{< resource_link b2b5d32e-3add-2c5a-a0ac-8e02d4bd077c "calendar" >}} page for more details.
 
 ### Weeks #1–4: Introductory Talks, Major Design Choices
 

@@ -17,7 +17,7 @@ I would say that no matter how theoretical and abstract the course, you can alwa
 Using Reactor Parts as Pointers
 -------------------------------
 
-![Dr. Short stands in front of the blackboard holding a metal tube about six inches thick.]({{< resource_file e2580c7c-4020-54f9-9c38-499ba7cc4b70 >}})
+{{< resource e2580c7c-4020-54f9-9c38-499ba7cc4b70 >}}
 
 Dr. Short holding up a fouled heat exchanger in Lecture 2. (Image courtesy of MIT OpenCourseWare.)
 
@@ -37,7 +37,7 @@ You can talk about it and teach it, the theory in its entirety on paper, or you 
 Teaching Material Science with an Analogy: Cheese
 -------------------------------------------------
 
-One of my favorite moments – and I’m guessing it was also one of the students' favorite moments – was the [cheese-tasting class]({{< baseurl >}}/resources/lecture-8-metals-and-cheeses-uncoventional-pairings) that I taught. For the students that decided to stick it out until the day before Thanksgiving – which was, by the way, a school day – I taught a course on cheese tasting and linked every cheese that we tasted to a phenomenon that happens in materials science and metallurgy. Not all of these students had been required to take a materials science course, but they needed to understand the behavior of reactors in order to design the reactor.
+One of my favorite moments – and I’m guessing it was also one of the students' favorite moments – was the {{< resource_link 263c5651-ea7d-643e-e0e4-a12b172888da "cheese-tasting class" >}} that I taught. For the students that decided to stick it out until the day before Thanksgiving – which was, by the way, a school day – I taught a course on cheese tasting and linked every cheese that we tasted to a phenomenon that happens in materials science and metallurgy. Not all of these students had been required to take a materials science course, but they needed to understand the behavior of reactors in order to design the reactor.
 
 I had gone to a cheese tasting event, totally separately, and while the instructors were waxing on about how the cheese was made and why it was aged in this cage and how the soil in the air changed things, I was pulling them apart, crumbling them in my hands, making a giant mess, thinking, “These things behave just like metals at high temperatures under irradiation.” So, I set up a cheese tasting class where we tasted five different cheeses, each of which exhibited a metallurgical property.
 

@@ -77,7 +77,7 @@ Core: Nonconventional (non-PWR/BWR) reactors
 {{< tdopen >}}
 
 
-[Lecture video and slides]({{< baseurl >}}/resources/lecture-1-core-nonconventional-non-pwr-bwr-reactors)
+{{< resource_link e6ef62e4-5c4b-d43e-85f2-ffed6904dc59 "Lecture video and slides" >}}
 
 [Announcement: Lecture 1 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_1)
 
@@ -104,7 +104,7 @@ Logistics, journal articles, group responsibilities
 {{< tdopen >}}
 
 
-[Lecture video and slides]({{< baseurl >}}/resources/lecture-2-process-heat-major-challenges)
+{{< resource_link 65c291be-3583-6276-4763-e6703d830f6d "Lecture video and slides" >}}
 
 [Announcement: Lecture 2 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_2)
 
@@ -140,7 +140,7 @@ Hydrogen, Biofuels; design process, importance metrics
 {{< tdopen >}}
 
 
-[Lecture video and slides]({{< baseurl >}}/resources/lecture-3-hydrogen-and-biofuel-production-design-process)
+{{< resource_link 4c5bf2d1-d906-7b27-a913-9c3bd5b6f554 "Lecture video and slides" >}}
 
 
 {{< tdclose >}}
@@ -182,7 +182,7 @@ Quality Function Deployment (QFD) example using House of Quality (HoQ)
 
 [Announcement: Lecture 4 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_4)
 
-[Lecture video]({{< baseurl >}}/resources/lecture-4-quality-function-deployment-qfd-and-house-of-quality)
+{{< resource_link 51e85b94-407c-43d7-3480-ea953ea6a91a "Lecture video" >}}
 
 [HoQ spreadsheet template](http://qfdonline.com/templates/) by QFDOnline.com
 
@@ -211,7 +211,7 @@ Group time, integrator progress reports
 
 [Announcement: Lecture 5 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_5)
 
-Slides ([PDF]({{< baseurl >}}/resources/mit22_033f11_lec05))
+Slides ({{< resource_link aa322730-a624-9b67-084d-fce64daca907 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -249,7 +249,7 @@ Sub-Task Presentation I: Core
 {{< tdopen >}}
 
 
-See [projects]({{< baseurl >}}/video_galleries/projects) page for slides
+See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for slides
 
 
 {{< tdclose >}}
@@ -268,7 +268,7 @@ Sub-Task Presentation I: Hydrogen
 {{< tdopen >}}
 
 
-See [projects]({{< baseurl >}}/video_galleries/projects) page for slides
+See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for slides
 
 
 {{< tdclose >}}
@@ -287,7 +287,7 @@ Engineering leadership & leadership styles
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/mit22_033f11_rec04))
+Slides ({{< resource_link 922a2520-5176-8870-a059-dee88dcb35d5 "PDF" >}})
 
 Resources from the [Gordon-MIT Engineering Leadership Program](http://web.mit.edu/gordonelp/) were used in this class session. For more information about these resources, please [contact](http://web.mit.edu/gordonelp/forms/contact.html) the program.
 
@@ -310,7 +310,7 @@ Sub-Task Presentation I: Process Heat, Biofuel
 {{< tdopen >}}
 
 
-See [projects]({{< baseurl >}}/video_galleries/projects) page for slides
+See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for slides
 
 [Announcement: Project Work 3 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_8)
 
@@ -467,7 +467,7 @@ Qualitative optimization of CaC{{< sub "2" >}}/acetylene block diagram
 
 [Announcement: Lecture 7 preparation]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_13)
 
-[Lecture video and notes]({{< baseurl >}}/resources/lecture-7-qualitative-optimization-of-cac2-acetylene-block-diagram)
+{{< resource_link 8ca215f4-1f7e-5e4f-64b5-5266686ca8dd "Lecture video and notes" >}}
 
 [Announcement: Lecture 7 follow up]({{< baseurl >}}/video_galleries/videos-class-notes/announcements#annc_14)
 
@@ -503,7 +503,7 @@ Sub-Task Presentation II: Core
 {{< tdopen >}}
 
 
-See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides
+See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for video and slides
 
 
 {{< tdclose >}}
@@ -522,7 +522,7 @@ Sub-Task Presentation II: Hydrogen
 {{< tdopen >}}
 
 
-See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides
+See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for video and slides
 
 
 {{< tdclose >}}
@@ -562,7 +562,7 @@ Sub-Task Presentation II: Biofuel
 {{< tdopen >}}
 
 
-See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides
+See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for video and slides
 
 
 {{< tdclose >}}
@@ -581,7 +581,7 @@ Sub-Task Presentation II: Process Heat
 {{< tdopen >}}
 
 
-See [projects]({{< baseurl >}}/video_galleries/projects) page for slides
+See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for slides
 
 
 {{< tdclose >}}
@@ -615,7 +615,7 @@ Metals and cheeses: Unconventional pairings
 {{< tdopen >}}
 
 
-[Lecture video, slides, and tasting menu]({{< baseurl >}}/resources/lecture-8-metals-and-cheeses-uncoventional-pairings)
+{{< resource_link 263c5651-ea7d-643e-e0e4-a12b172888da "Lecture video, slides, and tasting menu" >}}
 
 
 {{< tdclose >}}
@@ -655,7 +655,7 @@ Integrating block diagram models in EES
 {{< tdopen >}}
 
 
-Slides ([PDF]({{< baseurl >}}/resources/mit22_033f11_rec10))
+Slides ({{< resource_link 227314f4-e1ca-22d7-9312-ed965326ace4 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -704,7 +704,7 @@ Final presentation with invited guests
 {{< tdopen >}}
 
 
-See [projects]({{< baseurl >}}/video_galleries/projects) page for video and slides
+See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for video and slides
 
 
 {{< tdclose >}}

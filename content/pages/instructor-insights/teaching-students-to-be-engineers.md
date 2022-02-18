@@ -30,7 +30,7 @@ Students learned a range of lessons about engineering through this class. Here a
 Engineering Lesson #1: The whole project is linked; an issue in one part will propagate all through the project.
 ----------------------------------------------------------------------------------------------------------------
 
-![Dr. Short and a girl sit side by side working on a computer with the image of a colorful structure up on the screen.]({{< resource_file c09c5811-a027-bc2c-0713-d6596d9905f9 >}})
+{{< resource c09c5811-a027-bc2c-0713-d6596d9905f9 >}}
 
 Dr. Short works one-on-one with a student on the nuclear engineering project.
 

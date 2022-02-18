@@ -33,5 +33,5 @@ Projects from Other Semesters
 Some examples of projects undertaken in other iterations of Nuclear Systems Design Project are
 
 *   Use of a fusion reactor for transmutation of nuclear waste;
-*   Design and implementation of an experiment to predict and measure pebble flow in a pebble bed reactor (project description ([PDF]({{< baseurl >}}/resources/mit22_033f11_f02-project-description))); and
+*   Design and implementation of an experiment to predict and measure pebble flow in a pebble bed reactor (project description ({{< resource_link 7a3131ea-5cb7-0d9f-109b-ee0d075525b2 "PDF" >}})); and
 *   Development of a mission plan for a manned Mars mission, including the conceptual design of a nuclear powered space propulsion system and power plant for the Mars surface, a lunar/Martian nuclear power station, and the use of nuclear plants to extract oil from tar sands.
