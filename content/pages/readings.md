@@ -9,7 +9,7 @@ uid: 419d3fd0-ab12-5a58-8ea5-8e93bccacff6
 
 The readings on this page constitute a general overview and introduction to the course topics.
 
-Each sub-task group begins their investigation with a literature search. By the end of the semester, students will have read and discussed a large number of other sources. The [final project report]({{< baseurl >}}/video_galleries/projects#Final) lists these additional readings in the References section.
+Each sub-task group begins their investigation with a literature search. By the end of the semester, students will have read and discussed a large number of other sources. The {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "final project report" "#Final" >}} lists these additional readings in the References section.
 
 Core
 ----
