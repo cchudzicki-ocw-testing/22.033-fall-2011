@@ -36,12 +36,12 @@ Dr. Short addresses 22.033 students during class.
 
 In the following pages, Dr. Short discusses specific aspects of his experience as the course instructor.
 
-- {{< resource_link 6000b1af-cb5b-372c-3189-1bdbcc47a489 "Developing the project assignment" >}}
-- {{< resource_link 7ce52b5e-4939-7782-7747-84fb9c5eb9ca "Guiding students through each phase of the course" >}}
-- {{< resource_link cec37c2f-0ed4-584e-28d6-1c6630ff78e9 "Tailoring the course to students' needs" >}}
-- {{< resource_link b830ab64-2e27-3513-cb30-a2f98c366c75 "Teaching students to be engineers" >}}
-- {{< resource_link af43da93-2019-bbd9-1377-1168fef547a5 "Teaching communication" >}}
-- {{< resource_link 9e145b33-d473-f70e-ec45-5c73fc291a97 "Making content tangible" >}}
+- {{% resource_link 6000b1af-cb5b-372c-3189-1bdbcc47a489 "Developing the project assignment" %}}
+- {{% resource_link 7ce52b5e-4939-7782-7747-84fb9c5eb9ca "Guiding students through each phase of the course" %}}
+- {{% resource_link cec37c2f-0ed4-584e-28d6-1c6630ff78e9 "Tailoring the course to students' needs" %}}
+- {{% resource_link b830ab64-2e27-3513-cb30-a2f98c366c75 "Teaching students to be engineers" %}}
+- {{% resource_link af43da93-2019-bbd9-1377-1168fef547a5 "Teaching communication" %}}
+- {{% resource_link 9e145b33-d473-f70e-ec45-5c73fc291a97 "Making content tangible" %}}
 
 ## Curriculum Information
 
@@ -108,7 +108,7 @@ Activities such as
 
 ### Lead Instructor (Dr. Michael Short)
 
-To design the course project, structure and run the course, work with students, and provide feedback. Read more about Dr. Short’s role in {{< resource_link 7ce52b5e-4939-7782-7747-84fb9c5eb9ca "guiding students through each phase of the course" >}}.
+To design the course project, structure and run the course, work with students, and provide feedback. Read more about Dr. Short’s role in {{% resource_link 7ce52b5e-4939-7782-7747-84fb9c5eb9ca "guiding students through each phase of the course" %}}.
 
 ### Teaching Assistant
 
