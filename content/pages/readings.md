@@ -9,15 +9,15 @@ uid: 419d3fd0-ab12-5a58-8ea5-8e93bccacff6
 
 The readings on this page constitute a general overview and introduction to the course topics.
 
-Each sub-task group begins their investigation with a literature search. By the end of the semester, students will have read and discussed a large number of other sources. The {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "final project report" "#Final" >}} lists these additional readings in the References section.
+Each sub-task group begins their investigation with a literature search. By the end of the semester, students will have read and discussed a large number of other sources. The {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "final project report" "#Final" %}} lists these additional readings in the References section.
 
 Core
 ----
 
-_GIF R&D Outlook for Generation IV Nuclear Energy Systems_. Generation IV (GenIV) International Forum. 2009. ({{< resource_link 8a0fbf6f-8037-2376-8811-c2a087625134 "PDF" >}}) (Courtesy of the Generation IV International Forum. Used with permission.)  
+_GIF R&D Outlook for Generation IV Nuclear Energy Systems_. Generation IV (GenIV) International Forum. 2009. ({{% resource_link 8a0fbf6f-8037-2376-8811-c2a087625134 "PDF" %}}) (Courtesy of the Generation IV International Forum. Used with permission.)  
 A report prepared for the [Generation IV International Forum Technology Roadmap](https://www.gen-4.org/gif/upload/docs/application/pdf/2014-03/gif-tru2014.pdf) on new reactor concepts and their R&D status.
 
-_Nuclear Energy Research and Development Roadmap_. U.S. Department of Energy. April 2010. ({{< resource_link 6a2afa14-552d-7d18-ad15-a726bbd3334f "PDF - 3.7MB" >}})  
+_Nuclear Energy Research and Development Roadmap_. U.S. Department of Energy. April 2010. ({{% resource_link 6a2afa14-552d-7d18-ad15-a726bbd3334f "PDF - 3.7MB" %}})  
 This is a good summary of some of the issues to keep in mind when deciding on your choice of reactor technology.
 
 Process Heat

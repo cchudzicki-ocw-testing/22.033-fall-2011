@@ -131,7 +131,7 @@ Remember that you are free to use all (legal) resources to improve your articles
 _Topic:_ Journal Article 1: Detailed critiques, resubmission  
 _Posted by:_ Michael Short
 
-See {{< resource_link 1c3e103b-90af-39bd-44e4-7bcdaa1a5133 "two of your fellow students' journal articles" "#Student_work_1" >}}  as examples of what we're looking for on this assignment. While re-tooling your articles, please pay particular attention to the following:
+See {{% resource_link 1c3e103b-90af-39bd-44e4-7bcdaa1a5133 "two of your fellow students' journal articles" "#Student_work_1" %}}  as examples of what we're looking for on this assignment. While re-tooling your articles, please pay particular attention to the following:
 
 1.  Make sure to use the passive voice (don't say "I did this, I did that…"). It is much more professional to avoid the first person.
 2.  When describing the abstract & introduction, frame it so that the reader knows nothing about 22.033. The focus should be on the problem itself and why it is important, with a reference or two. It doesn't (and shouldn't) refer to a problem that you have been assigned, since that isn't of interest to the reader.

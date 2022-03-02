@@ -77,9 +77,9 @@ Core: Nonconventional (non-PWR/BWR) reactors
 {{< tdopen >}}
 
 
-{{< resource_link e6ef62e4-5c4b-d43e-85f2-ffed6904dc59 "Lecture video and slides" >}}
+{{% resource_link e6ef62e4-5c4b-d43e-85f2-ffed6904dc59 "Lecture video and slides" %}}
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 1 follow up" "#annc_1" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 1 follow up" "#annc_1" %}}
 
 
 {{< tdclose >}}
@@ -104,9 +104,9 @@ Logistics, journal articles, group responsibilities
 {{< tdopen >}}
 
 
-{{< resource_link 65c291be-3583-6276-4763-e6703d830f6d "Lecture video and slides" >}}
+{{% resource_link 65c291be-3583-6276-4763-e6703d830f6d "Lecture video and slides" %}}
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 2 follow up" "#annc_2" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 2 follow up" "#annc_2" %}}
 
 
 {{< tdclose >}}
@@ -140,7 +140,7 @@ Hydrogen, Biofuels; design process, importance metrics
 {{< tdopen >}}
 
 
-{{< resource_link 4c5bf2d1-d906-7b27-a913-9c3bd5b6f554 "Lecture video and slides" >}}
+{{% resource_link 4c5bf2d1-d906-7b27-a913-9c3bd5b6f554 "Lecture video and slides" %}}
 
 
 {{< tdclose >}}
@@ -161,7 +161,7 @@ Leadership skills
 
 Resources from the [Gordon-MIT Engineering Leadership Program](http://web.mit.edu/gordonelp/) were used in this class session. For more information about these resources, please [contact](http://web.mit.edu/gordonelp/forms/contact.html) the program.
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 2 follow up" "#annc_3" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 2 follow up" "#annc_3" %}}
 
 
 {{< tdclose >}}
@@ -180,9 +180,9 @@ Quality Function Deployment (QFD) example using House of Quality (HoQ)
 {{< tdopen >}}
 
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 4 preparation" "#annc_4" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 4 preparation" "#annc_4" %}}
 
-{{< resource_link 51e85b94-407c-43d7-3480-ea953ea6a91a "Lecture video" >}}
+{{% resource_link 51e85b94-407c-43d7-3480-ea953ea6a91a "Lecture video" %}}
 
 [HoQ spreadsheet template](http://qfdonline.com/templates/) by QFDOnline.com
 
@@ -209,9 +209,9 @@ Group time, integrator progress reports
 {{< tdopen >}}
 
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 5 preparation" "#annc_5" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 5 preparation" "#annc_5" %}}
 
-Slides ({{< resource_link aa322730-a624-9b67-084d-fce64daca907 "PDF" >}})
+Slides ({{% resource_link aa322730-a624-9b67-084d-fce64daca907 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -230,7 +230,7 @@ EES thermodynamic software
 {{< tdopen >}}
 
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 3 preparation" "#annc_6" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 3 preparation" "#annc_6" %}}
 
 
 {{< tdclose >}}
@@ -249,7 +249,7 @@ Sub-Task Presentation I: Core
 {{< tdopen >}}
 
 
-See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for slides
+See {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" %}} page for slides
 
 
 {{< tdclose >}}
@@ -268,7 +268,7 @@ Sub-Task Presentation I: Hydrogen
 {{< tdopen >}}
 
 
-See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for slides
+See {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" %}} page for slides
 
 
 {{< tdclose >}}
@@ -287,11 +287,11 @@ Engineering leadership & leadership styles
 {{< tdopen >}}
 
 
-Slides ({{< resource_link 922a2520-5176-8870-a059-dee88dcb35d5 "PDF" >}})
+Slides ({{% resource_link 922a2520-5176-8870-a059-dee88dcb35d5 "PDF" %}})
 
 Resources from the [Gordon-MIT Engineering Leadership Program](http://web.mit.edu/gordonelp/) were used in this class session. For more information about these resources, please [contact](http://web.mit.edu/gordonelp/forms/contact.html) the program.
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 4 follow up" "#annc_7" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 4 follow up" "#annc_7" %}}
 
 
 {{< tdclose >}}
@@ -310,9 +310,9 @@ Sub-Task Presentation I: Process Heat, Biofuel
 {{< tdopen >}}
 
 
-See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for slides
+See {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" %}} page for slides
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Project Work 3 follow up" "#annc_8" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Project Work 3 follow up" "#annc_8" %}}
 
 
 {{< tdclose >}}
@@ -346,7 +346,7 @@ Group time: Detailed critques on first journal articles
 {{< tdopen >}}
 
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Group Work 2 follow up" "#annc_9" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Group Work 2 follow up" "#annc_9" %}}
 
 
 {{< tdclose >}}
@@ -380,9 +380,9 @@ Intermediate LyX tips and tricks
 {{< tdopen >}}
 
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 5 preparation" "#annc_10" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 5 preparation" "#annc_10" %}}
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 5 follow up" "#annc_11" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 5 follow up" "#annc_11" %}}
 
 
 {{< tdclose >}}
@@ -431,7 +431,7 @@ Recitation: Schematic development
 {{< tdopen >}}
 
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 6 preparation" "#annc_12" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Recitation 6 preparation" "#annc_12" %}}
 
 
 {{< tdclose >}}
@@ -465,11 +465,11 @@ Qualitative optimization of CaC{{< sub "2" >}}/acetylene block diagram
 {{< tdopen >}}
 
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 7 preparation" "#annc_13" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 7 preparation" "#annc_13" %}}
 
-{{< resource_link 8ca215f4-1f7e-5e4f-64b5-5266686ca8dd "Lecture video and notes" >}}
+{{% resource_link 8ca215f4-1f7e-5e4f-64b5-5266686ca8dd "Lecture video and notes" %}}
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 7 follow up" "#annc_14" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Lecture 7 follow up" "#annc_14" %}}
 
 
 {{< tdclose >}}
@@ -503,7 +503,7 @@ Sub-Task Presentation II: Core
 {{< tdopen >}}
 
 
-See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for video and slides
+See {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" %}} page for video and slides
 
 
 {{< tdclose >}}
@@ -522,7 +522,7 @@ Sub-Task Presentation II: Hydrogen
 {{< tdopen >}}
 
 
-See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for video and slides
+See {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" %}} page for video and slides
 
 
 {{< tdclose >}}
@@ -562,7 +562,7 @@ Sub-Task Presentation II: Biofuel
 {{< tdopen >}}
 
 
-See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for video and slides
+See {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" %}} page for video and slides
 
 
 {{< tdclose >}}
@@ -581,7 +581,7 @@ Sub-Task Presentation II: Process Heat
 {{< tdopen >}}
 
 
-See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for slides
+See {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" %}} page for slides
 
 
 {{< tdclose >}}
@@ -615,7 +615,7 @@ Metals and cheeses: Unconventional pairings
 {{< tdopen >}}
 
 
-{{< resource_link 263c5651-ea7d-643e-e0e4-a12b172888da "Lecture video, slides, and tasting menu" >}}
+{{% resource_link 263c5651-ea7d-643e-e0e4-a12b172888da "Lecture video, slides, and tasting menu" %}}
 
 
 {{< tdclose >}}
@@ -634,9 +634,9 @@ In-class refinement of overall block diagram, input/output coordination
 {{< tdopen >}}
 
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Group Work 6 follow up" "#annc_15" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Group Work 6 follow up" "#annc_15" %}}
 
-{{< resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Group Work 8 follow up" "#annc_16" >}}
+{{% resource_link 11e64f7d-7883-6fe3-b9c1-6b3d5b2fb886 "Announcement: Group Work 8 follow up" "#annc_16" %}}
 
 
 {{< tdclose >}}
@@ -655,7 +655,7 @@ Integrating block diagram models in EES
 {{< tdopen >}}
 
 
-Slides ({{< resource_link 227314f4-e1ca-22d7-9312-ed965326ace4 "PDF" >}})
+Slides ({{% resource_link 227314f4-e1ca-22d7-9312-ed965326ace4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -704,7 +704,7 @@ Final presentation with invited guests
 {{< tdopen >}}
 
 
-See {{< resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" >}} page for video and slides
+See {{% resource_link 72ee7639-0e17-ec22-2b1a-a6d5bb9c5925 "projects" %}} page for video and slides
 
 
 {{< tdclose >}}
