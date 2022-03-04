@@ -1,8 +1,6 @@
 ---
 content_type: page
-layout: instructor_insights
-learning_resource_types: []
-ocw_type: CourseSection
+draft: false
 title: Instructor Insights
 uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 ---
@@ -18,7 +16,7 @@ Nuclear Systems Design Project is an intense capstone project course designed pr
 
 ### Course Goals for Students
 
-To learn to work on an open-ended, “no right answer” problem that requires choosing design parameters, optimizing them, and defending a proposed design. \[Learn more\]({{< baseurl >}}/pages/Syllabus#goals).
+To learn to work on an open-ended, “no right answer” problem that requires choosing design parameters, optimizing them, and defending a proposed design. 
 
 ### Possibilities for Further Study/Careers
 
@@ -31,7 +29,7 @@ To learn to work on an open-ended, “no right answer” problem that requires c
 
 {{< resource c92e620d-3480-6f66-04c9-c320e0bbfccd >}}
 
-     
+      
 Dr. Short addresses 22.033 students during class.
 
 In the following pages, Dr. Short discusses specific aspects of his experience as the course instructor.
