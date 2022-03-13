@@ -4,8 +4,6 @@ draft: false
 title: Instructor Insights
 uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 ---
-//\<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "»", backText: "«", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
-
 ## Course  Overview
 
 This page focuses on the course _22.033/22.33_ _Nuclear Systems Design Project_ as it was taught by Prof. Michael Short in Fall 2011.
@@ -29,7 +27,7 @@ To learn to work on an open-ended, “no right answer” problem that requires c
 
 {{< resource c92e620d-3480-6f66-04c9-c320e0bbfccd >}}
 
-      
+       
 Dr. Short addresses 22.033 students during class.
 
 In the following pages, Dr. Short discusses specific aspects of his experience as the course instructor.
@@ -60,7 +58,9 @@ In the following pages, Dr. Short discusses specific aspects of his experience a
 
 ## Student Information
 
-{{< resource 7da1444e-e82c-120d-9977-74e7b8730b95 >}}
+### Enrollment
+
+17 students
 
 ### Breakdown by Year
 
@@ -84,12 +84,12 @@ The ideal class size is between 5 and 20. There is no enrollment cap. As the req
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-## Lecture
+### Lecture
 
 - Three class sessions per week, each lasting one hour; 39 sessions total; mandatory attendance
 - 9 lecture sessions, 10 recitations, 11 group work sessions, and 9 project presentation sessions
 
-## Out of Class
+### Out of Class
 
 Activities such as
 
