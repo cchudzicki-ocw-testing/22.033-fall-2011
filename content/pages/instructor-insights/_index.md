@@ -23,11 +23,11 @@ To learn to work on an open-ended, “no right answer” problem that requires c
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
 {{< resource c92e620d-3480-6f66-04c9-c320e0bbfccd >}}
 
-       
+        
 Dr. Short addresses 22.033 students during class.
 
 In the following pages, Dr. Short discusses specific aspects of his experience as the course instructor.
