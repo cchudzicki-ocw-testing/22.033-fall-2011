@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: Slides ([PDF](resources/mit22_033f11_lec03))
+optional_text: Slides ([PDF](/courses/22-033-nuclear-systems-design-project-fall-2011/resources/mit22_033f11_lec03))
 parent_title: Lecture Videos and Class Notes
 parent_type: CourseSection
 related_resources_text: ''

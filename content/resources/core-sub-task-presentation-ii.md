@@ -6,7 +6,7 @@ learning_resource_types:
 - Projects
 ocw_type: ''
 optional_tab_title: Slides
-optional_text: Slides ([PDF - 1.1MB](resources/mit22_033f11_proj_p2_core))
+optional_text: Slides ([PDF - 1.1MB](/courses/22-033-nuclear-systems-design-project-fall-2011/resources/mit22_033f11_proj_p2_core))
 parent_title: Projects
 parent_type: CourseSection
 related_resources_text: ''
