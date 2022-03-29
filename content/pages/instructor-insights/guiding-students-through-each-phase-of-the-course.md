@@ -1,6 +1,7 @@
 ---
 content_type: page
 draft: false
+parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Guiding Students Through Each Phase of the Course
 uid: 7ce52b5e-4939-7782-7747-84fb9c5eb9ca
 ---
