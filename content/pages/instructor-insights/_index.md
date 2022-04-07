@@ -6,7 +6,7 @@ uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 ---
 ## Course  Overview
 
-This page focuses on the course _22.033/22.33_ _Nuclear Systems Design Project_ as it was taught by Prof. Michael Short in Fall 2011.
+This page focuses on the course *22.033/22.33* *Nuclear Systems Design Project* as it was taught by Prof. Michael Short in Fall 2011.
 
 Nuclear Systems Design Project is an intense capstone project course designed primarily for MIT nuclear engineering undergraduates. In this course, students collectively tackle all facets of an open-ended, multi-disciplinary nuclear engineering design challenge.
 
@@ -25,11 +25,6 @@ To learn to work on an open-ended, “no right answer” problem that requires c
 
 ## Instructor Interview
 
-{{< resource c92e620d-3480-6f66-04c9-c320e0bbfccd >}}
-
-        
-Dr. Short addresses 22.033 students during class.
-
 In the following pages, Dr. Short discusses specific aspects of his experience as the course instructor.
 
 - {{% resource_link 6000b1af-cb5b-372c-3189-1bdbcc47a489 "Developing the project assignment" %}}
@@ -44,7 +39,7 @@ In the following pages, Dr. Short discusses specific aspects of his experience a
 ### Prerequisites
 
 - For undergraduate (22.033) credit: no prerequisites
-- For graduate (22.33) credit: [22.312 _Engineering of Nuclear Reactors_](/courses/22-312-engineering-of-nuclear-reactors-fall-2015)
+- For graduate (22.33) credit: [22.312 *Engineering of Nuclear Reactors*](/courses/22-312-engineering-of-nuclear-reactors-fall-2015)
 
 ### Requirements Satisfied
 
