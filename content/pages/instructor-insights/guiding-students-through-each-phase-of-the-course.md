@@ -5,17 +5,13 @@ parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Guiding Students Through Each Phase of the Course
 uid: 7ce52b5e-4939-7782-7747-84fb9c5eb9ca
 ---
-_In this section, Dr. Short discusses his role throughout the different phases of the course, as well as the challenge of helping students tackle the project without telling them what to do._
+*In this section, Dr. Short discusses his role throughout the different phases of the course, as well as the challenge of helping students tackle the project without telling them what to do.*
 
 In a project-based course, the instructor's job, in my opinion, is to be a guide and a mentor through the problem. You have to know things like how to push students in the right direction and what information not to give them. You have to be smart about giving students challenges that they can conquer. You also need to fill in any technical gaps in the students' knowledge, one student at a time.
 
 Ideally, the instructor would have done problems like this before but not this particular one. In fact, it helps if the instructor hasn't solved this one before. It's critical that the instructor not inject personal bias into the solution. The more the students "own" the problem and the solution, the more personally motivated they will be.
 
 My role as the instructor changed as the course progressed through its four main segments: four weeks for the problem survey, four weeks for nitty gritty technical analysis, four weeks for project integration, and a final week for the final report and presentation. For more information about each segment of the course, please refer to the course syllabus.
-
-{{< resource 48ee06c9-e34d-e3f4-34e9-7c7b1219f82c >}}
-
-Dr. Short advises a student group.
 
 ## Weeks #1–4: Introductory Talks, Major Design Choices
 
