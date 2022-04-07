@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,17 +10,11 @@ parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Making Content Tangible
 uid: 9e145b33-d473-f70e-ec45-5c73fc291a97
 ---
-
-_In this section, Dr. Short shares some of his approaches for making this nuclear design class more tangible for his students._
+*In this section, Dr. Short shares some of his approaches for making this nuclear design class more tangible for his students.*
 
 I would say that no matter how theoretical and abstract the course, you can always put up a tangible physical to anything you're teaching. Here are some examples of how I made the subject matter more tangible for my students.
 
-Using Reactor Parts as Pointers
--------------------------------
-
-{{< resource e2580c7c-4020-54f9-9c38-499ba7cc4b70 >}}
-
-Dr. Short holding up a fouled heat exchanger in Lecture 2. (Image courtesy of MIT OpenCourseWare.)
+## Using Reactor Parts as Pointers
 
 I'm not a big fan of laser pointers, and my students hadn't necessary touched any part of a reactor in their entire lives, so we're graduating all these Bachelors' in nuclear engineering without having touched pieces of a reactor.
 
@@ -27,15 +22,13 @@ So each day, I used a different piece of a reactor as a pointer. One day, I used
 
 And just putting a tangible spin on something as abstract as designing a reactor on paper really helped students grasp it, get excited about it, and absorb the information.
 
-Involving Students in Hands-On Experiences
-------------------------------------------
+## Involving Students in Hands-On Experiences
 
 Hands-on demos are key too. When we were talking about metallurgy, students were looking at things like quenched and tempered and annealed steel, which are different heat treatments you can do to increase strength or increase hardness at the cost of other things.
 
 You can talk about it and teach it, the theory in its entirety on paper, or you can do what we did – go down to the blacksmith's forge, heat up some metal, and tell the students, “Alright, break it in half.” And then heat it and quench it in water and say, “Alright, break it in half,” and then it snaps. And then heat it slowly and say, “Break it in half,” and the strongest student can’t even make it budge. That’s the tangible analogue and the intuitive learning that students need to get no matter how theoretical the course.
 
-Teaching Material Science with an Analogy: Cheese
--------------------------------------------------
+## Teaching Material Science with an Analogy: Cheese
 
 One of my favorite moments – and I’m guessing it was also one of the students' favorite moments – was the {{% resource_link 263c5651-ea7d-643e-e0e4-a12b172888da "cheese-tasting class" %}} that I taught. For the students that decided to stick it out until the day before Thanksgiving – which was, by the way, a school day – I taught a course on cheese tasting and linked every cheese that we tasted to a phenomenon that happens in materials science and metallurgy. Not all of these students had been required to take a materials science course, but they needed to understand the behavior of reactors in order to design the reactor.
 
