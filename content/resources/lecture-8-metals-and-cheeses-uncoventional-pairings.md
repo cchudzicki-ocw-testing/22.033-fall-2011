@@ -29,3 +29,4 @@ video_metadata:
 ---
 
 This lecture explores the microstructure characteristics of metals in high temperature/high stress situations, via hands-on experience with similar structures and behaviors in selected cheeses. Cheese-tasting asides enrich the experience.
+

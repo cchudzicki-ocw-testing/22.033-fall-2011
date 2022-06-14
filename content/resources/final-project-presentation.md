@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 At the end of the term, the class presents its project to other faculty and students.
+

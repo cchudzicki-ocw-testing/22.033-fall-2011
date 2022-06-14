@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 This lecture is a sample of how to optimize a system block diagram. After summarizing the goal and initial results from the previous session, this lecture works through refinements in materials, thermal design, flow rates, environmental rules, etc.
+

@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 This lecture surveys the nuclear reactor core types that might be used for the project design, after a brief survey of key system design parameters.
+

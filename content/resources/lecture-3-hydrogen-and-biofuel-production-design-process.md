@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 This lecture contains three modules: (a) methods of hydrogen production; (b) methods of biofuel production; and (c) an approach to the engineering design process based on importance metrics and the House of Quality method.
+

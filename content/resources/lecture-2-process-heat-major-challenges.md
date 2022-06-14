@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 This lecture on Process Heat covers the three heat challenges: heat exchanger design, heat transport, and heat storage. The video starts with a few minutes reviewing the project team structure, roles, and goals.
+
