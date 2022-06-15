@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Nuclear Systems Design Project is intended to bring students from a classroom
+  mindset to the practical reality of working as an engineer. In this section, Dr.
+  Short shares some of the engineering lessons his students learned.
 draft: false
 layout: instructor_insights
 learning_resource_types: []

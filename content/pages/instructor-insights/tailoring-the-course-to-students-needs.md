@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'In this section, Dr. Short describes one of the unusual challenges of
+  teaching a course like 22.033: the topics students most needed to learn couldn''t
+  be planned in advance, but instead emerged throughout the semester, making it impossible
+  to plan what he would teach more than a week ahead of time. He then gives some examples
+  of methods he employed to address this challenge.'
 draft: false
 layout: instructor_insights
 learning_resource_types: []

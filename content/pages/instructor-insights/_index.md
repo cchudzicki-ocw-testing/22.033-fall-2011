@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page focuses on the course 22.033/22.33 Nuclear Systems Design Project
+  as it was taught by Dr. Michael Short in Fall 2011.
 draft: false
 title: Instructor Insights
 uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0

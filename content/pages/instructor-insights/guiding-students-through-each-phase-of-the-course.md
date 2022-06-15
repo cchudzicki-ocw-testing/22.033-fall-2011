@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Short discusses his role throughout the different
+  phases of the course, as well as the challenge of helping students tackle the project
+  without telling them what to do.
 draft: false
 parent_uid: 13f190bb-4d98-5fc5-48a8-d27f625e9ae0
 title: Guiding Students Through Each Phase of the Course

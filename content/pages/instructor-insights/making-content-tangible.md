@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Short shares some of his approaches for making this
+  nuclear design class more tangible for his students.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
