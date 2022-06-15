@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Short discusses how he chose the project for the
+  class. He also gives some examples of projects explored during past offerings of
+  the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

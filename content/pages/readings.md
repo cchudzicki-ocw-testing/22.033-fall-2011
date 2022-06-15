@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings on nuclear systems design, process heat,
+  hydrogen, and biofuels.
 draft: false
 title: Readings
 uid: 419d3fd0-ab12-5a58-8ea5-8e93bccacff6
