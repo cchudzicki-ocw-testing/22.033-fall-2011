@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Short explains how the course was structured to
+  help students develop their professional communication skills.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

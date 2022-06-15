@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides selected materials for the classroom lecture and
+  recitation sessions, including lecture videos and slides, recitation handouts and
+  notes,  and announcements extracted from the class blog.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

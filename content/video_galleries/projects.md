@@ -1,5 +1,8 @@
 ---
 content_type: video_gallery
+description: This section presents student work and presentation videos about the
+  design project, with select progress reports, interim presentations, and the final
+  presentation and report.
 is_media_gallery: true
 learning_resource_types:
 - Projects

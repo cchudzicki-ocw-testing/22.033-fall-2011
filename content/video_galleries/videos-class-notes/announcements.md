@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents selected announcements extracted from the class blog,
+  which indicates how the class operates day to day.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section describes the individual writing assignments: monthly individual
+  progress reports in the style of short journal articles.  Examples of student work
+  are also provided.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
