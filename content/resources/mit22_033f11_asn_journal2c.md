@@ -5,6 +5,7 @@ file: /courses/22-033-nuclear-systems-design-project-fall-2011/6af8f3bd38fdb0155
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

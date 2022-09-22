@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Slides
 optional_text: Slides ([PDF](/courses/22-033-nuclear-systems-design-project-fall-2011/resources/mit22_033f11_proj_p2_h2))
